@@ -1,0 +1,16 @@
+.calculadora {
+    margin: auto;
+    background-color: black;
+    margin-top: 50px;
+    height: 260px;
+    width: 200px;
+}
+
+tr {
+    display: inline-block;
+    margin-left: 30px;
+}
+button {
+    width: 30px;
+    height: 30px;
+}
